@@ -12,9 +12,6 @@ This Mod/Datapack makes your craftings way faster by adding faster recipes to Mi
 ### Logs/Stems/Bamboos To Stairs
 ![Logs/Stems/Bamboos To Stairs](https://cdn.modrinth.com/data/DfbZLvZG/images/ae3031a4711bc914d84719e66e39f50b3fbca59e.gif)
 
-### Logs/Stems/Bamboos To Stairs
-![Logs/Stems/Bamboos To Stairs](https://cdn.modrinth.com/data/DfbZLvZG/images/ae3031a4711bc914d84719e66e39f50b3fbca59e.gif)
-
 ### Logs/Stems/Bamboos To Trapdoors
 ![Logs/Stems/Bamboos To Trapdoors](https://cdn.modrinth.com/data/DfbZLvZG/images/17b46ddec4994de2b8c8c756534858a160632de5.gif)
 
