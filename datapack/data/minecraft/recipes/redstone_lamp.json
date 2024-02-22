@@ -3,17 +3,17 @@
     "category": "redstone",
     "group": "redstone_lamp",
     "key": {
-        "D": {
-            "item": "minecraft:glowstone_dust"
+        "G": {
+            "item": "minecraft:glowstone"
         },
         "R": {
             "item": "minecraft:redstone"
         }
     },
     "pattern": [
-        "DRD", 
-        "R R", 
-        "DRD"
+        " R ",
+        "RGR",
+        " R "
     ],
     "result": {
         "item": "minecraft:redstone_lamp"

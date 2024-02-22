@@ -3,19 +3,20 @@
     "category": "redstone",
     "group": "hopper",
     "key": {
-        "L": {
-            "tag": "minecraft:logs"
+        "C": {
+            "item": "minecraft:chest"
         },
         "I": {
             "item": "minecraft:iron_ingot"
         }
     },
     "pattern": [
-        "ILI", 
-        "ILI", 
+        "I I", 
+        "ICI", 
         " I "
     ],
     "result": {
         "item": "minecraft:hopper"
-    }
+    },
+    "show_notification": true
 }

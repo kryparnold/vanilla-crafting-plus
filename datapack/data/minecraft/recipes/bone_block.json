@@ -4,16 +4,16 @@
     "group": "bone_block",
     "key": {
         "#": {
-            "item": "minecraft:bone"
+            "item": "minecraft:bone_meal"
         }
     },
     "pattern": [
-        "###",
-        "###",
+        "###", 
+        "###", 
         "###"
     ],
     "result": {
-        "item": "minecraft:bone_block",
-        "count": 3
-    }
+        "item": "minecraft:bone_block"
+    },
+    "show_notification": true
 }

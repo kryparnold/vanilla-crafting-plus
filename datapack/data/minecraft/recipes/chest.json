@@ -4,16 +4,16 @@
     "group": "chest",
     "key": {
         "#": {
-            "tag": "minecraft:warped_stems"
+            "tag": "minecraft:planks"
         }
     },
     "pattern": [
         "###", 
-        "# #",
+        "# #", 
         "###"
     ],
     "result": {
-        "count": 4,
         "item": "minecraft:chest"
-    }
+    },
+    "show_notification": true
 }
