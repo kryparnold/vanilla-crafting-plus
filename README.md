@@ -1,5 +1,9 @@
 # VanillaCrafting+
 
+![GitHub license](https://img.shields.io/github/license/kryparnold/vanilla-crafting-plus.svg)
+![GitHub release](https://img.shields.io/github/release/kryparnold/vanilla-crafting-plus.svg)
+![GitHub issues](https://img.shields.io/github/issues/kryparnold/vanilla-crafting-plus.svg)
+
 ## Welcome to VanillaCrafting+
 
 This Mod/Datapack makes your craftings way faster by adding faster recipes to Minecraft. VanillaCrafting+ doesn't add any advantage to vanilla gameplay.
